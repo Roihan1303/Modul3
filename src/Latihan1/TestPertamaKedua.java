@@ -12,7 +12,7 @@ package Latihan1;
 class TestPertamaKedua {
     public static void main(String[] arg) {
         Kedua D2 = new Kedua();
-        D2.bacaSuper();
+        D2.bacaSuper(); //method mutator
         D2.info();
         
         Pertama S1 = new Pertama();
